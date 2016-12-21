@@ -6,7 +6,7 @@ iterates through each row of pixels on the screen in a highly efficient manner t
 draw arbitrary polygons.
 
 After the polygons are created, I used the [Sutherland-Hodgman Clipping Algorithm](https://en.wikipedia.org/wiki/Sutherland%E2%80%93Hodgman_algorithm) to
-efficiently clip each polygon to match the user-inputted clipping window.
+efficiently clip each polygon to match the user-inputted clipping window in one test case.
 
 
 Below are all of the polygons drawn according to user input.  
