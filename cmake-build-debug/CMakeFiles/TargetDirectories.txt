@@ -1,0 +1,3 @@
+/Users/wesm/Developer/computer-graphics/Polygon Scan Conversion and Clipping/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wesm/Developer/computer-graphics/Polygon Scan Conversion and Clipping/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wesm/Developer/computer-graphics/Polygon Scan Conversion and Clipping/cmake-build-debug/CMakeFiles/polygon_clipping.dir

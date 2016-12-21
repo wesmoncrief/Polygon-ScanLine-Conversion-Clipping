@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wesm/Developer/computer-graphics/Polygon Scan Conversion and Clipping/a_edge.cpp
+a_edge.h
+/Users/wesm/Developer/computer-graphics/Polygon Scan Conversion and Clipping/a_edge.h
+
+/Users/wesm/Developer/computer-graphics/Polygon Scan Conversion and Clipping/a_edge.h
+utility
+-
+
+/Users/wesm/Developer/computer-graphics/Polygon Scan Conversion and Clipping/algorithms.cpp
+utility
+-
+vector
+-
+list
+-
+a_edge.h
+/Users/wesm/Developer/computer-graphics/Polygon Scan Conversion and Clipping/a_edge.h
+
+/Users/wesm/Developer/computer-graphics/Polygon Scan Conversion and Clipping/main.cpp
+GLUT/glut.h
+-
+utility
+-
+stdio.h
+-
+iostream
+-
+list
+-
+vector
+-
+thread
+-
+a_edge.h
+/Users/wesm/Developer/computer-graphics/Polygon Scan Conversion and Clipping/a_edge.h
+
