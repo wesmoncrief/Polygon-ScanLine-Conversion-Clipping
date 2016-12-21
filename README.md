@@ -9,12 +9,12 @@ After the polygons are created, I used the [Sutherland-Hodgman Clipping Algorith
 efficiently clip each polygon to match the user-inputted clipping window.
 
 
-Below are all of the polygons drawn according to user input.
+Below are all of the polygons drawn according to user input.  
 ![All](images/all.png)
 
-The following shows the clipping window that the user selected.
+The following shows the clipping window that the user selected.  
 ![first-1](images/first-clip-1.png)
 
 The following shows the screen after the polygons were
-clipped with Sutherland-Hodgman.
+clipped with Sutherland-Hodgman.  
 ![first-2](images/first-clip-2.png)
